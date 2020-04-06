@@ -3,5 +3,5 @@
 
 def parrot phrase="Squak!"
   puts phrase
-  phrase 
+  phrase
 end
